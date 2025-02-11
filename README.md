@@ -1,5 +1,5 @@
 
-# **S3-Access-Single-Bucket**
+# **How to Allow User to List All S3 Buckets but Access Only One Bucket**
 
 ## **Overview**
 This repository provides a guide on how to configure an **AWS IAM policy** that allows a specific user to **list all S3 buckets** but grants access to only **one specific bucket**. This is useful for managing permissions while maintaining security.
