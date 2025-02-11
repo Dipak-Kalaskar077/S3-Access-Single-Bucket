@@ -119,5 +119,5 @@ This guide provides step-by-step instructions to configure an **AWS IAM policy**
 🚀 **Contributions & Feedback**
 Feel free to raise issues or suggest improvements!
 
-🔗 **Follow me on [LinkedIn](https://www.linkedin.com/)** for more AWS & DevOps content!
+🔗 **Follow me on [LinkedIn](https://www.linkedin.com/in/dipak-kalaskar/)** for more AWS & DevOps content!
 
